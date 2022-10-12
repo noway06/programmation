@@ -90,3 +90,6 @@ for i in range(1,nbr + 1):
     print(  i, " + ")
 
 print("somme ", som)
+
+
+#salut
