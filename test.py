@@ -92,4 +92,4 @@ for i in range(1,nbr + 1):
 print("somme ", som)
 
 
-#salut
+#salut  
